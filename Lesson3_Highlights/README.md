@@ -4,15 +4,15 @@
 LIS 2360:  Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+02/03/17
 
 ## Student Name:  
-(First and Last Name)
+Lillian Van Winkle 
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+(learning to use git and repositories and how they help in the world of web applications)
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. the Basics of git and how it works
+2. the diffrence between local and remote repositories
+3. how git is diffrent than other repsoitories
